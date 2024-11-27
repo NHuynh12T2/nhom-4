@@ -238,7 +238,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="https://danviet.mediacdn.vn/2017/9/images/525dbc09-ga-loi-lam-duoi-trang-3.jpg" alt=""width="200" height="200">
+                    <img src="https://thienduongchim.com/wp-content/uploads/2016/01/g%C3%A0-l%C3%B4i-l%C3%A0m-%C4%91u%C3%B4i-tr%E1%BA%AFng.jpg" alt=""width="200" height="200">
                     <div class="card-content">
                         <h3>Đại Bàng</h3>
                         <p>Loài chim săn mồi mạnh mẽ, được mệnh danh là "Chúa tể bầu trời".</p>

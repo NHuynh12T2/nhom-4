@@ -238,7 +238,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Lophura_hatinhensis_qtl1.jpg/978px-Lophura_hatinhensis_qtl1.jpg" alt=""width="200" height="200">
+                    <img src="https://danviet.mediacdn.vn/2017/9/images/525dbc09-ga-loi-lam-duoi-trang-3.jpg" alt=""width="200" height="200">
                     <div class="card-content">
                         <h3>Đại Bàng</h3>
                         <p>Loài chim săn mồi mạnh mẽ, được mệnh danh là "Chúa tể bầu trời".</p>
